@@ -1,0 +1,49 @@
+,flow_name,material,process,features,Scope
+0,"aluminium, primary, ingot",aluminium,primary,ingot,Scope not available/范围不存在
+1,"aluminium, primary, liquid",aluminium,primary,liquid,Scope not available/范围不存在
+2,"aluminium alloy, AlMg3",aluminium,process not available/工艺不存在,AlMg3,Scope not available/范围不存在
+3,"aluminium removed by milling, dressing",aluminium,milling,dressing,Scope not available/范围不存在
+4,"electricity, medium voltage, aluminium industry",electricity,process not available/工艺不存在,medium voltage,aluminium industry
+5,hydraulic fracturing fluid,hydraulic fracturing fluid,process not available/工艺不存在,features not available/特征不存在,Scope not available/范围不存在
+6,lubricating oil,lubricating oil,process not available/工艺不存在,features not available/特征不存在,Scope not available/范围不存在
+7,"natural gas, low pressure",natural gas,process not available/工艺不存在, low pressure,Scope not available/范围不存在
+8,tap water,tap water,process not available/工艺不存在,features not available/特征不存在,Scope not available/范围不存在
+9,scrap aluminium,scrap aluminium,process not available/工艺不存在,features not available/特征不存在,Scope not available/范围不存在
+10,"aluminium oxide, metallurgical",aluminium oxide,process not available/工艺不存在,metallurgical,Scope not available/范围不存在
+11,"nitrogen, liquid",nitrogen,process not available/工艺不存在,liquid,Scope not available/范围不存在
+12,"sodium chloride, powder",sodium chloride,process not available/工艺不存在,powder,Scope not available/范围不存在
+13,"wastewater, average",water,process not available/工艺不存在,waste，average,Scope not available/范围不存在
+14,"aluminium removed by drilling, conventional",aluminium,drilling,conventional,Scope not available/范围不存在
+15,"aluminium removed by milling, dressing",aluminium,milling,dressing,Scope not available/范围不存在
+16,"aluminium removed by turning, average, conventional",aluminium,turning,average，conventional,Scope not available/范围不存在
+17,"aluminium removed by turning, primarily roughing, conventional",aluminium,turning, primarily roughing，conventional,Scope not available/范围不存在
+18,"steel, chromium steel 18/8, hot rolled",steel,hot rolled,chromium steel,Scope not available/范围不存在
+19,waste aluminium,aluminium,process not available/工艺不存在,waste ,Scope not available/范围不存在
+20,"aluminium removed by drilling, computer numerical controlled",aluminium,drilling, computer numerical controlled,Scope not available/范围不存在
+21,"aluminium removed by milling, large parts",aluminium,milling,features not available/特征不存在,large parts
+22,"aluminium removed by milling, small parts",aluminium,milling,features not available/特征不存在,small parts
+23,"aluminium removed by turning, primarily roughing, computer numerical controlled",aluminium,turning,primarily roughing，computer numerical controlled,Scope not available/范围不存在
+24,"electricity, high voltage, aluminium industry",electricity,process not available/工艺不存在,high voltage,aluminium industry
+25,"electricity, high voltage, for internal use in coal mining",electricity,process not available/工艺不存在,high voltage,coal mining
+26,"electricity, low voltage",electricity,process not available/工艺不存在,low voltage,Scope not available/范围不存在
+27,"electricity, medium voltage",electricity,process not available/工艺不存在,medium voltage,Scope not available/范围不存在
+28,"electricity, medium voltage, label-certified",electricity,process not available/工艺不存在,medium voltage,label-certified
+29,"natural gas, high pressure",natural gas,process not available/工艺不存在,high pressure,Scope not available/范围不存在
+30,"natural gas, medium pressure, vehicle grade",natural gas,process not available/工艺不存在,medium pressure,vehicle grade
+31,"natural gas, liquefied",natural gas,process not available/工艺不存在, liquefied,Scope not available/范围不存在
+32,steel wire rod worldsteel,steel ,process not available/工艺不存在,wire rod ,worldsteel
+33,nylon 6-6 production,nylon 6-6,process not available/工艺不存在,features not available/特征不存在,Scope not available/范围不存在
+34,glass fibre production,glass fibre,process not available/工艺不存在,features not available/特征不存在,Scope not available/范围不存在
+35,"wire drawing, steel",steel,wire drawing,features not available/特征不存在,Scope not available/范围不存在
+36,"impact extrusion of steel, cold, 3 strokes",steel,impact extrusion ,3 strokes,Scope not available/范围不存在
+37,"impact extrusion of aluminium, 3 strokes",aluminium,impact extrusion,3 strokes,Scope not available/范围不存在
+38,injection moulding,material not available/资料不存在,injection，moulding,features not available/特征不存在,Scope not available/范围不存在
+39,"steel, unalloyed",steel,process not available/工艺不存在,unalloyed,Scope not available/范围不存在
+40,chromium steel pipe,steel,process not available/工艺不存在,chromium steel，pipe,Scope not available/范围不存在
+41,scrap steel,steel,process not available/工艺不存在,scrap ,Scope not available/范围不存在
+42,"steel, low-alloyed, hot rolled",steel,hot rolled,low-alloyed,Scope not available/范围不存在
+43,"steel, low-alloyed",steel,process not available/工艺不存在,low-alloyed,Scope not available/范围不存在
+44,"steel, chromium steel 18/8",steel,chromium steel,features not available/特征不存在,Scope not available/范围不存在
+45,"steel removed by drilling, conventional",steel,drilling, conventional,Scope not available/范围不存在
+46,"steel removed by turning, primarily dressing, computer numerical controlled",steel,"turning,",primarily dressing，computer numerical controlled,Scope not available/范围不存在
+47,"steel removed by milling, average",steel,milling,average,Scope not available/范围不存在
