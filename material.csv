@@ -1,0 +1,21 @@
+,Material_name,Chinese,English,Grade,Standard
+0,aluminium,铝，铝产品，铝件，铝部件,"aluminum,aluminium,Al,al","1050,1060,1070,1100,1145,1200,1235,3003,3102,5052,5A02,8006,8011,8011A,8111,8021,8021B,8079,1A99,1199,1A97,1A95,1A80,1080(1A),1080,1A50,1050,1050(1B),ZAlSi7Mn,ZAISi12,ZAlSi5Cu1Mg,ZAlSi2Cu2Mg1,ZAICu5Mn,ZAICu5MnCdVA,ZAIMg10,ZAIMg5Si,5AO2,5052,NS4,5052,5AO3,NS5,5A05,5056,NB6,5056,5A30,5456,NG61,5556,2A01,2036,2117,2A11,HF15,2017,2A12,2124,2024,2B16,2319,2A80,2NO1,2A90,2218,2018,2A14,2014,2014,7A09,7175,7075
+
+
+
+","GB/T 3198,GB5237,GB/T6892,GB/T26014,GB/T14846,EN12020,EN755,JISH4100,ANSIH35,GBT15115,BS 1728,BS 2627,BS 4L 100"
+1,aluminium oxide,"氧化铝，三氧化二铝,刚玉,铝土矿,氧化铝粉","Al2O3,aluminium oxide,aluminium ore,aluminum ore,aluminum oxide,alumina,single crystal alpha-alumina,aluminium sesquioxide,aluminum sesquioxide,corundum, alundum powder,WA ,White Fused Alumina ,white corundum ,white alundum","AO-G,AO-1,AO-2","GB/T 24487,YS/T 998,GB/T 33970,BS ISO 12315,BS 4140"
+2,electricity,电，电力，电能，电耗," electricity,electric,electricity consumption,electric energy,220V,230V,240V,110V,120V",Grade not available/等级不存在,BS 4607
+3,glass fibre,"玻璃钎维，E-玻璃纤维，C-玻璃纤维，无碱玻璃纤维，中碱玻璃纤维，高强玻璃纤维，AR玻璃纤维,玻璃纤维增​​强塑料,长玻璃纤维，玻璃棉，纤维玻璃，直纤维，",",glass fibre,refractory glass fibre,textile glass fibre,fiberglass,GRP,GFRP，fiber glass wool ,GF",Carbon brazing dimension,Standard not available/标准不存在
+4,hydraulic fracturing fluid,"水基压裂液,水力压裂液,压裂液，液压油，","hydraulic oil,hydraulic fracturing fluid,HM ,Mobil NUTO, ANTI-WEAR HYDRAULIC OIL,RANDO HD,additives for hydrofracturing fluids,water based fracturing agent,water-base fracturing liquids",Grade not available/等级不存在,"SY∕T 7627,SYT5107"
+5,lubricating oil,"润滑油,光滑油,矿物油，合成油，","synthetic lubricating oil,synthetic  oil,lubricating oil,mineral oil,lubricating oil consumption,","VG1000,VG680,VG460,VG320,VG220,VG150,VG100,0W,5W,10W,15W,20W,25W,20,30,40,50,SAE15W-40,SAE5W-40
+
+",DIN51502
+6,natural gas,天然气，燃气，天然气资源，甲烷，沼气，坑气，油田气、气田气、泥火山气、煤层气，生物生成气,"natural gas , gas tax , natgas,CNG,LNG,NG,LPG,cng , compressed natural gas, L-CNG ,gas resources,CH4,oil field gas, gas field gas, mud volcano gas, tiranqi，coalbed methane gas and biogenic gas","G1.6,G2.5,G4,4T,6T,10T,12T,13T","BS3156,BS4089,BS EN 13423,BS EN 1776,BS EN ISO 14532,GB 13611,GB 17820,GB/T 26979"
+7,nitrogen,",氮气","N2,N,",Grade not available/等级不存在,"GB/T3864,GB 16944,GB T 8979,JB/T 7530"
+8,nylon 6-6,"尼龙,聚酰胺,锦纶,耐纶,卡普隆","nylon 66,PA11,Polyamide,PA,PAI Polyamide-imide,aramid,APA,Heracron,PA6,PA66,PAll,PAl2、PA46,PA610,PA612,PAl010
+
+","101L DAM,101F DAM,103HSL DAM,103FHS DAM,105F DAM,EFE1068 DAM,135F DAM,408 DAM,450 DAM,490 DAM,801 DAM,EFE8073 DAM,70G20HSL DAM,70G35HSL DAM,70G60HSL DAM,70G25HSLR DAM,70GB40HSL DAM,80G14 DAM,FR7200VOF DAM,FR72G25VO DAM,E40 DAM,E42A DAM,","GB/T 2910,GB T 20218, GB 16332,GB 2408,GB T 21032,GB T 12006,"
+9,sodium chloride,"氯化钠,食盐,乳化剂,","NaCl , common salt,sodium hydrochloride,sodium chloride,CAS 2647-14-5,",Grade not available/等级不存在,"GB T 1266,HG 3255,GB 12671,BS 7319"
+10,steel,"钢,钢铁,钢件,钢坯,钢产品,钢部件","steel,steel product,steel part,stel,steel billet",Grade not available/等级不存在,"GB 712, GB 1221,GB 3426,GB 6478,GB 8731,"
+11,tap water,"水,自来水","water,tap water",H2O,"GB/T 14848-93,GB 5750,GB3838-2002"

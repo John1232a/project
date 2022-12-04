@@ -1,0 +1,10 @@
+,Process_name,Chinese,English,Standard,Tool,Facility
+0,drilling,钻，钻孔，打孔，攻孔,"drill,drilled,drilling",Standard not available/标准不存在,drill，bit,drill machine，deiller，
+1,hot rolled,"热轧,热加工的轧制,热扎，","hot rolling,hot rolled,hotroll,hot spring,hot-rolled","GB 1591,GB 5212,GB 5313,GB 6984,GB 6985,",Tool not available/工具不存在,"hot mill，hot rolling machine,hot roller,rolling-mill"
+2,impact extrusion,"冲击挤压,冲击挤压加工,冲环压,冲压,冲挤,","cold impact extrusion,impact extrusion,forming,form,extrusion impact,impact endurance test extrusion,Stamping,stamp,Stamping parts","G6402,GB/T13915,","冲压模具,冲模,stamping tool,stamping die,","impact endurance test extrusion press,NCTPP,数控转塔冲床,stamping press ,冲床"
+3,injection,"注射,注入,喷入,射入,喷射泵,注射泵,注入泵, 注塑机 ,注入成型机,注射机 ,成型机,","injection molding,injection,inject,infuse ,immit,transfuse,implant","GB/T 38981,BS EN 201,ISO 20430,DIN 16901","injection mould,","injection pump,injection molding machine,"
+4,moulding,"模制,浇铸,塑造,铸模成形,","injection moulding,moud,mould","GB/T 38981,BS EN 201,ISO 20430,DIN 16901","injection mould,",Facility not available/设施不可用
+5,milling,"铣削,铣,铣床,铣刨机 ,捏炼机,铣刀 ,铣削刀具 , 刨刀,电脑数控铣床, 数控机床, 电脑铣床, 数控铣床,铣头 ,铣削头,逆铣加工 , 顺铣减工,","up cut milling,milling,mill,face milling,milled","GB T 21019,JB/T 3046,GB/T 16459,GB/T 16461,","milling cutter,milling heads,milling tool","milling machine,CNC milling machines,CNC,milling planer,"
+6,primary,"基础,基本,基加工,最开始的,首要的,初级的,原发性的","major , central , main , leading,primary,basic,elementary,rudimentary",Standard not available/标准不存在,Tool not available/工具不存在,Facility not available/设施不可用
+7,turning,"车削,车工工艺,车削下脚,削屑,切削,车削工具 ,车刀 ,车削东西 ,车削刀具,车床 ,旋床锥度车削 ,推拔车削 , 圆锥形孔车削 ,锥度切削车圆锥","turning,turn,taper turning,lathe turning,lathe cutting,cutting,cut,turnery","JB/Z 307.2,","turning tool,",turning lathe
+8,wire drawing,"拉丝,拔丝,抽丝拉丝机,拔丝机,拉线模,拉线,线材,盘条,盘圆,钢丝筋条"," finedraw,wire rod,wire drawing,wire drawing,wire vibrations,wire,wire stock , coil rod,bracing wirestay ,wirestayguy,staying",GBT239.1,wire drawing die，wire-drawing die，,"wire drawing machine,wire drawing bench，slip wire-drawing machine"
