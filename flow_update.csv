@@ -1,0 +1,49 @@
+,name,id,flowType,lastChange,version,flowProperty
+0,"aluminium, primary, ingot",44defed2-3dc7-4d59-b3bc-23dacf1b9140,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.310Z,00.00.003,Mass
+1,"aluminium, primary, liquid",3ede4edc-b278-40dc-8007-0c574aff0739,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.340Z,00.00.003,Mass
+2,"aluminium alloy, AlMg3",e77d9460-e423-4e88-8c44-d1a4545b0b07,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.429Z,00.00.003,Mass
+3,"aluminium removed by milling, dressing",e8ce7dac-b45a-4dd3-b978-3a4bcb1152f4,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.676Z,00.00.003,Mass
+4,"electricity, medium voltage, aluminium industry",4fcfb407-7879-42ad-9582-ab3fbfe5af10,FlowType.PRODUCT_FLOW,2021-01-04T16:54:42.222Z,00.00.003,Energy
+5,hydraulic fracturing fluid,5ac871f5-3e64-46ce-a0f1-a3bda33442f1,FlowType.PRODUCT_FLOW,2021-01-04T16:54:39.782Z,00.00.003,Volume
+6,lubricating oil,ea75b944-c676-4a13-85b8-2bea98f765a4,FlowType.PRODUCT_FLOW,2021-01-04T16:54:38.422Z,00.00.003,Mass
+7,"natural gas, low pressure",609fae33-2e89-4b99-8129-b1f80a6dda33,FlowType.PRODUCT_FLOW,2021-01-04T16:54:42.302Z,00.00.003,Volume
+8,tap water,c5adb1fb-872e-4446-a3bb-c4b61aa4bd45,FlowType.PRODUCT_FLOW,2021-01-04T16:54:43.992Z,00.00.003,Mass
+9,scrap aluminium,618bf4eb-bee5-4d38-8e4f-78cfebf779be,FlowType.WASTE_FLOW,2021-01-04T16:54:44.322Z,00.00.003,Mass
+10,"aluminium oxide, metallurgical",b2c6db8a-b305-4413-a9c3-5460417f48de,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.330Z,00.00.003,Mass
+11,"nitrogen, liquid",159edf36-233e-4e2c-aec0-b0ac0d49f528,FlowType.PRODUCT_FLOW,2021-01-04T16:54:38.734Z,00.00.003,Mass
+12,"sodium chloride, powder",edcfa83a-363a-4b2d-8d6a-612e32dfcdfc,FlowType.PRODUCT_FLOW,2021-01-04T16:54:30.934Z,00.00.003,Mass
+13,"wastewater, average",e8a51ec1-60cb-4ead-a948-ad1142c61918,FlowType.WASTE_FLOW,2021-01-04T16:54:44.014Z,00.00.003,Volume
+14,"aluminium removed by drilling, conventional",b5f43a8d-4584-42d7-903e-dcb0b14adcbf,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.727Z,00.00.003,Mass
+15,"aluminium removed by milling, dressing",e8ce7dac-b45a-4dd3-b978-3a4bcb1152f4,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.676Z,00.00.003,Mass
+16,"aluminium removed by turning, average, conventional",63b19600-43b7-42f4-bb72-172da4012027,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.688Z,00.00.003,Mass
+17,"aluminium removed by turning, primarily roughing, conventional",4a9432d1-aaeb-4861-b776-822258862206,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.759Z,00.00.003,Mass
+18,"steel, chromium steel 18/8, hot rolled",c5246dbb-0abd-4bee-8dda-d52a1b202322,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.287Z,00.00.003,Mass
+19,waste aluminium,7df87cd6-22cd-4010-ab95-b1a02917bbfe,FlowType.WASTE_FLOW,2021-01-04T16:54:44.288Z,00.00.003,Mass
+20,"aluminium removed by drilling, computer numerical controlled",9f43b50a-3653-4952-b465-e66ef8926ea7,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.740Z,00.00.003,Mass
+21,"aluminium removed by milling, large parts",195293db-2f14-4e35-a334-201246a27c19,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.774Z,00.00.003,Mass
+22,"aluminium removed by milling, small parts",9ceb8f63-d8e7-4c29-9522-df825f2c4a0f,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.793Z,00.00.003,Mass
+23,"aluminium removed by turning, primarily roughing, computer numerical controlled",8ed69bc7-09fe-420a-a282-014cbf5f278f,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.714Z,00.00.003,Mass
+24,"electricity, high voltage, aluminium industry",5d954e5c-1e6d-4f78-9fc3-d3857b7892cb,FlowType.PRODUCT_FLOW,2021-01-04T16:54:42.217Z,00.00.003,Energy
+25,"electricity, high voltage, for internal use in coal mining",b7a0c0bc-fd0d-41b8-8ab7-15bc1a4a3063,FlowType.PRODUCT_FLOW,2021-01-04T16:54:42.228Z,00.00.003,Energy
+26,"electricity, low voltage",d69294d7-8d64-4915-a896-9996a014c410,FlowType.PRODUCT_FLOW,2021-01-04T16:54:42.212Z,00.00.003,Energy
+27,"electricity, medium voltage",759b89bd-3aa6-42ad-b767-5bb9ef5d331d,FlowType.PRODUCT_FLOW,2021-01-04T16:54:42.215Z,00.00.003,Energy
+28,"electricity, medium voltage, label-certified",fef08457-493d-4860-b499-83f12579f413,FlowType.PRODUCT_FLOW,2021-01-04T16:54:42.262Z,00.00.003,Energy
+29,"natural gas, high pressure",a9007f10-7e39-4d50-8f4a-d6d03ce3d673,FlowType.PRODUCT_FLOW,2021-01-04T16:54:30.746Z,00.00.003,Volume
+30,"natural gas, medium pressure, vehicle grade",485b4fc4-90b7-4c36-9bb4-fd116ad34538,FlowType.PRODUCT_FLOW,2021-01-04T16:54:42.312Z,00.00.003,Mass
+31,"natural gas, liquefied",1570a766-fe08-427f-94cb-6947995117ec,FlowType.PRODUCT_FLOW,2021-01-04T16:54:30.747Z,00.00.003,Volume
+32,"wire drawing, steel",444d81a0-13e0-41a4-8f63-e691b0133c04,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.256Z,00.00.003,Mass
+33,nylon 6-6,b167bcef-715e-4136-a743-2fae79a086d3,FlowType.PRODUCT_FLOW,2021-01-04T16:54:39.403Z,00.00.003,Mass
+34,glass fibre,102d2161-b570-42cd-b646-1c44e47d23c5,FlowType.PRODUCT_FLOW,2021-01-04T16:54:39.889Z,00.00.003,Mass
+35,"wire drawing, steel",444d81a0-13e0-41a4-8f63-e691b0133c04,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.256Z,00.00.003,Mass
+36,"impact extrusion of steel, cold, 3 strokes",58b4780f-3f11-4c34-a25d-447aa7617351,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.550Z,00.00.003,Mass
+37,"impact extrusion of aluminium, 3 strokes",b10ae87f-0566-4203-b8c1-4f0b153f05f5,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.523Z,00.00.003,Mass
+38,injection moulding,68d6dfcf-2089-4586-9bbf-ad75591105cf,FlowType.PRODUCT_FLOW,2021-01-04T16:54:39.861Z,00.00.003,Mass
+39,"steel, unalloyed",a2fd8c95-f2db-436a-9f24-f33b17f7975b,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.292Z,00.00.003,Mass
+40,chromium steel pipe,39d6e8fc-3213-473b-b515-9d0fd85d3a33,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.228Z,00.00.003,Mass
+41,scrap steel,d1a4a803-c563-4740-84cf-3c21a488bd74,FlowType.WASTE_FLOW,2021-01-04T16:54:44.269Z,00.00.003,Mass
+42,"steel, low-alloyed, hot rolled",8cb650d5-8a48-4719-81b1-2080b3b4387f,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.273Z,00.00.003,Mass
+43,"steel, low-alloyed",817c3650-4fed-4ef2-b9b6-404a198834e6,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.267Z,00.00.003,Mass
+44,"steel, chromium steel 18/8",c33b5236-001e-49b5-aa3d-810c0214f9ce,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.224Z,00.00.003,Mass
+45,"steel removed by drilling, conventional",20ad63da-2f25-4737-8241-580ef0f1fd96,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.783Z,00.00.003,Mass
+46,"steel removed by turning, primarily dressing, computer numerical controlled",b4d3bf0b-4192-4c37-b639-c85ace435c13,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.700Z,00.00.003,Mass
+47,"steel removed by milling, average",d8649ed8-daa1-43e2-976b-aa0e15f5680d,FlowType.PRODUCT_FLOW,2021-01-04T16:54:40.716Z,00.00.003,Mass
